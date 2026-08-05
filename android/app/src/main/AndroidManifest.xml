@@ -27,8 +27,8 @@
     </queries>
 
     <application
-        android:label="Pixi VPN"
-        android:name="${applicationName}"
+        android:label="Azadegan VPN"
+        android:name="Azadegan VPN"
         android:icon="@mipmap/ic_launcher">
 
         <meta-data
