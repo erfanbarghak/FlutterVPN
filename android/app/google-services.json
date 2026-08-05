@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "1072818978126",
-    "project_id": "pixi-vpn",
-    "storage_bucket": "pixi-vpn.firebasestorage.app"
+    "project_id": "devvpn-vpn",
+    "storage_bucket": "devvpn-vpn.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:1072818978126:android:07af452f1c289523c0721f",
         "android_client_info": {
-          "package_name": "com.app.pixivpngold"
+          "package_name": "com.devvpn.app"
         }
       },
       "oauth_client": [],
